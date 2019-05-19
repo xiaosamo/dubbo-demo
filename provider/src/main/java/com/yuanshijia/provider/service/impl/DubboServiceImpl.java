@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
 /**
- * @author yhf
+ * @author yuan
  * @date 2019/5/16
  * @description
  */
