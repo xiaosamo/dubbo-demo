@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
  * @description
  */
 @Component
-@Service(version = "1.0.0")
+@Service
 public class DubboServiceImpl implements DubboService {
 
 

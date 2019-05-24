@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
 
 
-    @Reference(version = "1.0.0",check = false)
+    @Reference
     private DubboService dubboService;
 
     @GetMapping("/get")
