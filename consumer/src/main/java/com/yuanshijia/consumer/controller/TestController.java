@@ -72,12 +72,6 @@ public class TestController {
             }
         });
 
-//        CompletableFuture<String> future = RpcContext.getContext().asyncCall(
-//                () -> {
-//                    asyncService.findFoo();
-//                }
-//        );
-//        System.out.println("future get:" + future.get());
 
         long time1 = System.currentTimeMillis();
         System.out.println("test异步调用getBar执行时间：" + (time1 - start) + "ms");
