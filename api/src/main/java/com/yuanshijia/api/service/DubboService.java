@@ -6,5 +6,8 @@ package com.yuanshijia.api.service;
  * @description
  */
 public interface DubboService {
-    String get();
+    String findBar();
+
+    String findFoo();
+
 }

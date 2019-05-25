@@ -40,4 +40,11 @@
         </plugins>
     </build>
 
+<!--    <distributionManagement>-->
+<!--        <repository>-->
+<!--            <id>api</id>-->
+<!--            <name>api</name>-->
+<!--            <url>http://127.0.0.1:8081/nexus/content/api/api/</url>-->
+<!--        </repository>-->
+<!--    </distributionManagement>-->
 </project>
