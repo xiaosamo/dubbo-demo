@@ -11,7 +11,7 @@ https://github.com/apache/incubator-dubbo-spring-boot-project
 
 
 # dubbo异步demo
-####切换到dubbo-async分支
+#### 需要切换到dubbo-async分支
 先启动zookeeper，然后启动consumer，再启动provider
 
 访问consumer端口 [http://localhost:8081/test](http://localhost:8081/test)
